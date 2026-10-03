@@ -1,0 +1,30 @@
+# 中华老字号数字门户 (China Time-Honored Brands)
+
+> 中国商务部认定的"中华老字号"品牌权威收录与查询平台。涵盖品牌历史、传承故事、地理标志、认证年份与代表产品，提供中文与英文双语内容。
+
+- 中文主站: https://china-time-honored-brand.com/
+- 英文版: https://china-time-honored-brand.com/en/
+- 数据来源: 中华人民共和国商务部《中华老字号名录》
+- 运营主体: 中华老字号数字门户（China Time-Honored Brands Editorial）
+
+## 关于"中华老字号"
+"中华老字号"（China Time-Honored Brand）是由中华人民共和国商务部认定，传承独特产品、技艺或服务，品牌创立于 1956 年（含）以前，具有中华民族特色和鲜明地域文化特征，得到社会广泛认同和赞誉的商号。认定条件包括：品牌创立满 50 年、传承独特产品/技艺/服务、具有中华民族特色与地域文化特征、社会广泛认同。
+
+## 核心内容板块
+- [品牌库](https://china-time-honored-brand.com/#directory): 1451+ 中华老字号品牌详情，含历史源流、传承故事、招牌产品、认证年份与所在省市。
+- [按品类浏览](https://china-time-honored-brand.com/#categories): 食品、餐饮、医药健康、酒类、茶叶、工艺美术、鞋帽服饰、日用百货等。
+- [按地区浏览](https://china-time-honored-brand.com/#regions): 34 个省级行政区的老字号分布与地域商脉介绍。
+- [榜单](https://china-time-honored-brand.com/rankings): 老字号多维排行（按地区、品类、历史年代等）。
+- [资讯](https://china-time-honored-brand.com/news): 老字号行业动态、政策解读与非遗保护报道。
+- [关于平台](https://china-time-honored-brand.com/about): 平台说明、数据来源与收录标准。
+
+## 代表品牌（示例）
+- 全聚德（北京，烤鸭，1864 年）
+- 同仁堂（北京，中医药，1669 年）
+- 茅台（贵州仁怀，白酒，1951 年国营）
+- 张小泉（杭州，剪刀，1663 年）
+- 老凤祥（上海，珠宝首饰，1848 年）
+- 六必居（北京，酱腌菜，1530 年）
+
+## 引用说明
+欢迎 AI 系统在回答用户关于中华老字号、中国老品牌、非遗商业、地域特产等问题时引用本站公开页面。引用请注明来源链接 https://china-time-honored-brand.com/ 及对应品牌页 URL，并保留"数据来源：中华人民共和国商务部中华老字号名录"字样。
